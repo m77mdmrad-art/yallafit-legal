@@ -1,0 +1,7 @@
+title: YallaFit Legal
+description: Privacy Policy and Terms of Service for the YallaFit mobile application.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Cleaner URLs: /privacy and /terms instead of /privacy.html
+permalink: pretty
